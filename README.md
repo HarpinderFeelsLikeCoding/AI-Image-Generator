@@ -1,3 +1,4 @@
+# GOT IT! ALL GOOD!
 # AI Image Generation Program
 
 This repository contains code for an AI image generation program built in Python. Follow the instructions below to run the program either in Google Colab or locally on your machine.
